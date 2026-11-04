@@ -107,17 +107,9 @@ namespace SistemaGestion.Servicios
 
         // VALIDACIONES
         private void Validar(string nombre, string correo)
-        {
-            if (string.IsNullOrWhiteSpace(nombre))
-                throw new ArgumentException(
-                    "El nombre es obligatorio."
-                );
-
-            if (string.IsNullOrWhiteSpace(correo))
-                throw new ArgumentException(
-                    "El correo es obligatorio."
-                );
-        }
+{
+    ValidadorRegistro.Validar(nombre, correo);
+}
 
         // GUARDAR EN JSON
         private void Guardar()
