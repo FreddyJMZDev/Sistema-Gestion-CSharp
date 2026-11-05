@@ -1,0 +1,6 @@
+C:\Users\PC3000\Desktop\Sistema-Gestion-CSharp\obj\Debug\SistemaGestion.csproj.AssemblyReference.cache
+C:\Users\PC3000\Desktop\Sistema-Gestion-CSharp\obj\Debug\SistemaGestion.csproj.CoreCompileInputs.cache
+C:\Users\PC3000\Desktop\Sistema-Gestion-CSharp\bin\Debug\SistemaGestion.exe
+C:\Users\PC3000\Desktop\Sistema-Gestion-CSharp\bin\Debug\SistemaGestion.pdb
+C:\Users\PC3000\Desktop\Sistema-Gestion-CSharp\obj\Debug\SistemaGestion.exe
+C:\Users\PC3000\Desktop\Sistema-Gestion-CSharp\obj\Debug\SistemaGestion.pdb
